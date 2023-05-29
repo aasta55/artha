@@ -1,0 +1,56 @@
+*{
+font-family: cursive;
+}
+body{
+    background-image: url(cat7.jpg);
+    
+    
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+.a{
+    text-align: center;
+    font-size: x-large;
+}
+h2{
+    text-align: center;
+}
+.b{
+    height: 700px;
+    width: 400px;
+}
+form.cc{
+    height: 400px;
+    width: 400px;
+
+}
+label{
+    color: blue;
+    font-size: x-large;
+    width:400px ;
+    height:60px;
+}
+input{
+    background: #a4d4e4;
+    border-radius: 8px;
+    width:400px ;
+    height:60px;
+}
+button{
+    background: #f0bc9b;
+    width:120px ;
+    height:45px; 
+}
+img{
+    border-radius: 40%;
+    height: 200px;
+    width:300px ;
+   
+}
+p{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    text-align: justify;
+}
